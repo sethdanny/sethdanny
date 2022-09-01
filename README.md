@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Nadduli's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadduli&show_icons=true&theme=radical)
+
+<h3> 🤝🏻 Connect With Me </h3>
+Email:       naddulidaniel1994@gmail.com |
+Telephone:   +256750813048 |
+Address:     Kamwokya Kampala, Uganda |
+Facebook     seth cohen Daniels |
+Twitter:     @sethdannyz
