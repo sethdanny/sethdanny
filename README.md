@@ -1,10 +1,5 @@
 Hello there! 👋 I'm [Nadduli Daniel], a passionate backend software engineer who loves building robust and scalable web applications. My primary focus is crafting clean, efficient, and maintainable code to deliver seamless user experiences.
 
-<!--
-**sethdanny/sethdanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on software engineering projects and DevOps skills...
 - 🌱 I’m currently learning C Programming | Python | Shell Scripting | HTML & CSS | Javascript | Servers |...
 - 👯 I’m looking to collaborate on Backend projects...
@@ -15,17 +10,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 📚 Education:
-- [Degree] in [Computer Science] from [Makerere University College of Computing and Information Systems]
-- [Certificate in Software Engineering from Holberton School/ALX]
+- Degree in Computer Science from Makerere University College of Computing and Information Systems
+- Certificate in Software Engineering from Holberton School/ALX
 
 💼 Work Experience:
-- [Backend Engineer] at [Afrosoft IT Solutions]
-- [Full Stack Web Developer] at [ALX]
+- Backend Engineer at Afrosoft IT Solutions
+- Full Stack Web Developer at ALX
 
 🔧 Projects:
-- [AirBnB Clone]: Airbnb clone project developed using Python for the backend
-- [Trash to Treasure]: A project to connect waste pickers to community members to enable clean waste management
-- [DSA]: Learning project about Data Structures and Algorithm
+- Airbnb Clone: Airbnb clone project developed using Python for the backend
+- Trash to Treasure: A project to connect waste pickers to community members to enable clean waste management
+- DSA: Learning project about Data Structures and Algorithm
 
 ![Nadduli's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadduli&show_icons=true&theme=radical)
 
