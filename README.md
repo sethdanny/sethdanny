@@ -17,7 +17,16 @@ Here are some ideas to get you started:
 📚 Education:
 - [Degree] in [Computer Science] from [Makerere University College of Computing and Information Systems]
 - [Certificate in Software Engineering from Holberton School/ALX]
-  
+
+💼 Work Experience:
+- [Backend Engineer] at [Afrosoft IT Solutions]
+- [Full Stack Web Developer] at [ALX]
+
+🔧 Projects:
+- [AirBnB Clone]: Airbnb clone project developed using Python for the backend
+- [Trash to Treasure]: A project to connect waste pickers to community members to enable clean waste management
+- [DSA]: Learning project about Data Structures and Algorithm
+
 ![Nadduli's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadduli&show_icons=true&theme=radical)
 
 <h3> 🤝🏻 Connect With Me </h3>
