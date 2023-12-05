@@ -22,7 +22,9 @@ Hello there! 👋 I'm [Nadduli Daniel], a passionate backend software engineer w
 - Trash to Treasure: A project to connect waste pickers to community members to enable clean waste management
 - DSA: Learning project about Data Structures and Algorithm
 
-![Nadduli's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadduli&show_icons=true&theme=radical)
+              - name: Profile Readme Development Stats
+                uses: anmol098/waka-readme-stats@v4
+            
 
 <h3> 🤝🏻 Connect With Me </h3>
 Email:       naddulidaniel1994@gmail.com |
