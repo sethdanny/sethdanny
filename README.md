@@ -24,7 +24,39 @@ Hello there! 👋 I'm [Nadduli Daniel], a passionate backend software engineer w
 - Book-Cycle API: A backend project where book readers come and interact with others
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 1,044 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 40 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in Python** 
+
+```text
+Python                   13 repos            █████████░░░░░░░░░░░░░░░░   36.11 % 
+C                        9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/sethdanny/sethdanny/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/12/2023 23:54:21 UTC
+<!--END_SECTION:waka-->
 
 <h3> 🤝🏻 Connect With Me </h3>
 Email:       naddulidaniel1994@gmail.com |
