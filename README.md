@@ -21,10 +21,10 @@ Hello there! 👋 I'm [Nadduli Daniel], a passionate backend software engineer w
 - Airbnb Clone: Airbnb clone project developed using Python for the backend
 - Trash to Treasure: A project to connect waste pickers to community members to enable clean waste management
 - DSA: Learning project about Data Structures and Algorithm
+- Book-Cycle API: A backend project where book readers come and interact with others
 
-              - name: Profile Readme Development Stats
-                uses: anmol098/waka-readme-stats@v4
-            
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
 <h3> 🤝🏻 Connect With Me </h3>
 Email:       naddulidaniel1994@gmail.com |
