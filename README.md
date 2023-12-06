@@ -14,7 +14,7 @@ Hello there! 👋 I'm [Nadduli Daniel], a passionate backend software engineer w
 - Certificate in Software Engineering from Holberton School/ALX
 
 💼 Work Experience:
-- Backend Engineer at Afrosoft IT Solutions
+- Backend Engineer
 - Full Stack Web Developer at ALX
 
 🔧 Projects:
@@ -22,6 +22,13 @@ Hello there! 👋 I'm [Nadduli Daniel], a passionate backend software engineer w
 - Trash to Treasure: A project to connect waste pickers to community members to enable clean waste management
 - DSA: Learning project about Data Structures and Algorithm
 - Book-Cycle API: A backend project where book readers come and interact with others
+
+  <h3> 🤝🏻 Connect With Me </h3>
+Email:       naddulidaniel1994@gmail.com |
+Telephone:   +256750813048 |
+Address:     Kamwokya Kampala, Uganda |
+Facebook     Seth Cohen Daniels |
+Twitter/X:     @sethdannyz
 
   <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
@@ -58,9 +65,7 @@ HTML                     1 repo              █░░░░░░░░░░�
  Last Updated on 06/12/2023 00:09:28 UTC
 <!--END_SECTION:waka-->
 
-<h3> 🤝🏻 Connect With Me </h3>
-Email:       naddulidaniel1994@gmail.com |
-Telephone:   +256750813048 |
-Address:     Kamwokya Kampala, Uganda |
-Facebook     Seth Cohen Daniels |
-Twitter:     @sethdannyz
+
+
+
+
